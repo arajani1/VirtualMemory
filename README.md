@@ -4,4 +4,4 @@ This project implements a virtual memory (VM) system using segmentation and pagi
 To run my program the VMManager.py file has to be run in the same package as the PhysicalMemory.py file. 
 The input and output files are specified in the first few lines of the VMManager file and need to be provided.
 
-It should be run with demand paging but the output for the input without demand paging exists as backup.
+It should be run with demand paging.
